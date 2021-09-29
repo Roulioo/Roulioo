@@ -1,3 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roulioo&show_icons=true)]()
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roulioo&show_icons=true)](https://camo.githubusercontent.com/0323a75f371fac09c58433d87466d271676f04786406a10717f59aa7bc2ab6c4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d726f756c696f6f2673686f775f69636f6e733d74727565)
 
 
