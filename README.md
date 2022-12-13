@@ -2,8 +2,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roulioo&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=roulioo&count_private=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roulioo&layout=compact)
-
 ## Social Networks
 
 [![Linkedin Badge](https://img.shields.io/badge/-juliopereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-pereira-499a15134/)](https://www.linkedin.com/in/julio-pereira-499a15134/)
