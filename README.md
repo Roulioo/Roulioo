@@ -1,6 +1,6 @@
 ## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roulioo&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=roulioo&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roulioo&show_icons=true&theme=transparent)
 
 ## Social Networks
 
