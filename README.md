@@ -1,7 +1,3 @@
-## Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roulioo&show_icons=true)
-
 ## Social Networks
 
 [![Linkedin Badge](https://img.shields.io/badge/-juliopereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-pereira-499a15134/)](https://www.linkedin.com/in/julio-pereira-499a15134/)
