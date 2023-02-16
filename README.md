@@ -1,4 +1,4 @@
-## Github Stats ###
+## Github Stats
 [![](https://github-readme-stats.vercel.app/api?username=Roulioo&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)](https://github.com/Roulioo)
 
 ## Contact Me
