@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roulioo" alt="roulioo" /></a> </p>
 
-- 🔭 I’m currently working on **société générale**
+- 🔭 I’m currently working on **Société Générale**
 
-- 🌱 I’m currently learning **development courses**
+- 🌱 I’m currently learning **Development Courses**
 
-- 💬 Ask me about **everything**
+- 💬 Ask me about **Everything**
 
 - 📫 How to reach me **julioocesarr@outlook.fr**
 
