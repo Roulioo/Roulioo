@@ -15,9 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/roulioo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="roulioo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/julio-pereira-499a15134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julio-pereira-499a15134" height="30" width="40" /></a>
-<a href="https://discord.gg/Roulio#8817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Roulio#8817" height="30" width="40" /></a>
+<a href="https://discord.gg/roulio8817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Roulio#8817" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
