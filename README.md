@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julio</h1>
 <h3 align="center">A passionate fullstack developer from Paris</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roulioo&label=Profile%20views&color=0e75b6&style=flat" alt="roulioo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roulioo" alt="roulioo" /></a> </p>
-
 - 🌱 I’m currently learning **development courses**
 
 - 💬 Ask me about **Everything**
