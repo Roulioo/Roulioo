@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi 👋 I'm Julio Pereira
@@ -78,17 +77,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roulioo&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-# 🚀 Featured Projects
-
-- 🔹 Spring Boot REST API
-- 🔹 Angular Dashboard
-- 🔹 Authentication System (JWT)
-- 🔹 Dockerized Full Stack Application
-
-> Replace these with links to your repositories.
 
 ---
 
